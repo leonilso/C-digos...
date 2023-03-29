@@ -1,0 +1,29 @@
+
+html{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+body{
+    width: 1440px;
+    background-color: #D1FFFA;
+    color: #268AFF;
+}
+li{
+    display: inline-block;
+}
+section{
+    display: block;
+    margin: 0%;
+    background-color: #ffffff;
+}
+.Conteúdo{
+    background-image: linear-gradient( to bottom, #D1FFFA, #ffffff); 
+}
+.Contato{
+    background-image: linear-gradient( to top, #D1FFFA, #ffffff); 
+}
+footer{
+    text-align: center;
+}
